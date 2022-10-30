@@ -1,17 +1,5 @@
-// JS Quiz from Angela
+// var tweet = prompt("Compose your tweet:" );
+// alert("You have written " + tweet.length + "character you have" + (140 - tweet.length) + " character remaining ");
 
-function test() {
-    var a = "3";
-    var b = "8";
-}
-
-// Do not change the code above
-    var c = a;
-    a = b;
-    b = c;
-
-// Do not change the code below
-console.log("a is" + a);
-console.log("b is" + b);
-
-
+var nama = "Ghazy";
+nama.slice(4,6);
